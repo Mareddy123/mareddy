@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/mareddy" mode="merge"/>
+    <filter root="/content/mareddy" mode="merge"/>
+    <filter root="/content/dam/mareddy" mode="merge"/>
+    <filter root="/content/experience-fragments/mareddy" mode="merge"/>
+</workspaceFilter>

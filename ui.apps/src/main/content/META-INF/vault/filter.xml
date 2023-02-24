@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/mareddy/clientlibs"/>
+    <filter root="/apps/mareddy/components"/>
+    <filter root="/apps/mareddy/i18n"/>
+</workspaceFilter>
